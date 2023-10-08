@@ -11,16 +11,16 @@ This class is intended for individuals who want to step into the role of a Back-
 
 Topics Covered:
 
-**Introduction to Back-End:** Explains the roles of front-end and back-end, how clients and servers communicate via the HTTP protocol, and the architecture of RESTful APIs in building web services. (3 Hours)
+-   **Introduction to Back-End:** : Explains the roles of front-end and back-end, how clients and servers communicate via the HTTP protocol, and the architecture of RESTful APIs in building web services. (3 Hours)
 
-**Fundamentals of Node.js:** Introduces Node.js and covers basics such as global and process objects, modularization, Node Package Manager (NPM), eventing, filesystem, and stream techniques. (8 Hours)
+-   **Fundamentals of Node.js:** : Introduces Node.js and covers basics such as global and process objects, modularization, Node Package Manager (NPM), eventing, filesystem, and stream techniques. (8 Hours)
 
-**Building Web Services using Node.js:** Builds web services using Node.js natively and through the Hapi framework, creating a simple RESTful API. (10 Hours)
+-   **Building Web Services using Node.js:** : Builds web services using Node.js natively and through the Hapi framework, creating a simple RESTful API. (10 Hours)
 
-**Deploying Web Services:** Introduces and uses Amazon EC2, operates Amazon EC2 via SSH, and runs the RESTful API on Amazon EC2. (5 Hours)
+-   **Deploying Web Services:** : Introduces and uses Amazon EC2, operates Amazon EC2 via SSH, and runs the RESTful API on Amazon EC2. (5 Hours)
 
-**Consuming and Testing RESTful APIs using Postman:** Installs Postman, consumes RESTful APIs for testing purposes, and writes automated test scenarios using Postman. (5 Hours)
+-   **Consuming and Testing RESTful APIs using Postman:** : Installs Postman, consumes RESTful APIs for testing purposes, and writes automated test scenarios using Postman. (5 Hours)
 
 Learning Evaluation:
 
-Submission: The final project consists of a practical exercise where students create a Back-End for a note-taking application with Create, Read, Update, and Delete (CRUD) functionality.
+-   **Submission** : The final project consists of a practical exercise where students create a Back-End for a note-taking application with Create, Read, Update, and Delete (CRUD) functionality.
